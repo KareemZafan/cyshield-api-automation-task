@@ -5,6 +5,22 @@ target/
 
 ### IntelliJ IDEA ###
 .idea/
+allure-results/
+allure-report/app.js
+allure-report/data
+allure-report/export
+allure-report/favicon.ico
+allure-report/plugin
+allure-report/history
+allure-report/styles.css
+allure-report/widgets
+
+
+
+
+
+
+
 *.iws
 *.iml
 *.ipr
